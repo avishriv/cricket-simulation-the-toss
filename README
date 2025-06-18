@@ -1,0 +1,48 @@
+//
+// !!!!!!!!!!!!!! -------------- README -------------- !!!!!!!!!!!!!!
+//
+// This is the Solution for the Cricket problem (The TOSS) at :
+//           https://www.geektrust.in/coding-problem/backend/cricket
+//
+// Syntax to test:
+// --------------
+//      Please note the following STDIN Format of testing each of the 3 problems:
+//
+//      For problem 1 (the toss)      --->       e.g. 1 Cloudy Night
+//      For problem 2 (the last 4)    --->       e.g. 2
+//      For problem 3 (the tie break) --->       e.g. 3
+//
+// Note to code-reviewers:
+// ----------------------
+//  1) Are all 3 problems solved & tested : Yes
+//
+//  2) OOPS Concepts used:
+//  	-Encapsulation:          Yes
+//	    -Factory pattern:        Yes
+//	    -Overloaded constructor: Yes
+//	    -Pass by reference:      Yes
+//
+//  3) Code maintainability aspects:
+//	    -Comments:                         Yes
+//	    -Readable function/variable names: Yes
+//
+//  4) Code extensibility aspects:
+//	    -moduler re-usable functions:      Yes
+//	    -Are functions actually reused:    Yes
+//	    -Are classes reused well:          Yes
+//
+//  5) Code solution simplicity:
+//	    -Are all functions < 50 lines :       Yes
+//	    -Are all functions tested:            Yes
+//	    -Are test stub included in the code:  Yes
+//
+//  6) Misc optimizations / nuances:
+//	    -functions as static inline
+//      -Auto variables for iterators of List/Vector
+//      -probability arrays are const static
+//      -Added asserts in many places where code needs additional handling
+//
+// Reference:
+//        -https://www.geektrust.in/how-we-evaluate
+//        -https://www.geektrust.in/blog/2018/01/24/get-started-geektrust-coding-challenge/
+//
